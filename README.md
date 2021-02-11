@@ -19,3 +19,7 @@ dependencias utilizadas en esta prueba:
 -react-test-renderer
 -react-dom
 
+----------------------------------------------------
+# RESULTADO DE LA APLICACIÓN DESARROLLADA
+
+https://github.com/Juanda962908/PruebaQA-Jest-Enzyma/blob/master/screen/App-PruebaQA.png

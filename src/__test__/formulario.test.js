@@ -17,7 +17,7 @@ describe('<Formulario/>', ()=>{
         expect(tree).toMatchSnapshot();
     });
        
-    it('validar que contenga dos webElement Input',() => {
+    it('validar que contenga elemento Button',() => {
         const component = shallow(<Formulario />);
         expect(component.find(Button).length).toBe(1);
     });   

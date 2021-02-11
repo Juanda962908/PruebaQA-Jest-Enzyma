@@ -1,0 +1,158 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Formulario/> validar que se renderice el checkbox 1`] = `
+Array [
+  <h3
+    className="MuiTypography-root MuiTypography-h3"
+  >
+    PRUEBA TECNICA QA - JUAN DANIEL DE LA HOZ F.
+  </h3>,
+  <form
+    action=""
+    marginTop="10rem"
+  >
+    <div
+      className="MuiBox-root MuiBox-root-5"
+    >
+      <div
+        className="MuiFormControl-root"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-camposFormulario-2 MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink={false}
+          htmlFor="my-input"
+        >
+          Nombre Completo
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline makeStyles-camposFormulario-2 MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <input
+            aria-describedby="my-helper-text"
+            aria-invalid={false}
+            className="MuiInputBase-input MuiInput-input"
+            disabled={false}
+            id="Input1"
+            onAnimationStart={[Function]}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={false}
+            type="text"
+          />
+        </div>
+        <p
+          className="MuiFormHelperText-root makeStyles-camposFormulario-2"
+          id="my-helper-text"
+        />
+      </div>
+      <div
+        className="MuiFormControl-root"
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root makeStyles-camposFormulario-2 MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink={false}
+          htmlFor="my-input"
+        >
+          Apellido
+        </label>
+        <div
+          className="MuiInputBase-root MuiInput-root MuiInput-underline makeStyles-camposFormulario-2 MuiInputBase-formControl MuiInput-formControl"
+          onClick={[Function]}
+        >
+          <input
+            aria-describedby="my-helper-text"
+            aria-invalid={false}
+            className="MuiInputBase-input MuiInput-input"
+            disabled={false}
+            onAnimationStart={[Function]}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={false}
+            type="text"
+          />
+        </div>
+        <p
+          className="MuiFormHelperText-root makeStyles-camposFormulario-2"
+          id="my-helper-text"
+        />
+      </div>
+      <div
+        className="MuiBox-root MuiBox-root-6"
+      >
+        <span
+          aria-disabled={false}
+          className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-7 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+          onBlur={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={null}
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <input
+              aria-label="primary checkbox"
+              className="PrivateSwitchBase-input-10"
+              data-indeterminate={false}
+              onChange={[Function]}
+              type="checkbox"
+            />
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <label
+          className="makeStyles-textoLabel-4"
+          htmlFor=""
+        />
+      </div>
+      <div
+        className="MuiBox-root MuiBox-root-11"
+      >
+        <a
+          aria-disabled={false}
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-botonEnviar-3 MuiButton-containedPrimary"
+          href="https://www.google.com/"
+          onBlur={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Enviar
+          </span>
+        </a>
+      </div>
+    </div>
+  </form>,
+]
+`;

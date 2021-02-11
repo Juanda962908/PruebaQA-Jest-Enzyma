@@ -26,15 +26,15 @@ dependencias utilizadas en esta prueba:
 
 
 ----------------------------------------------------
-# TEST PARA EL COMPONENTE <Input/>
+# TEST PARA EL COMPONENTE Input
 ![ScreenShot](https://github.com/Juanda962908/PruebaQA-Jest-Enzyma/blob/master/screen/inputTest.png)
 
 ----------------------------------------------------
-# TEST PARA EL COMPONENTE <Checkbox/> y <label> </label>
+# TEST PARA EL COMPONENTE Checkbox y label
 ![ScreenShot](https://github.com/Juanda962908/PruebaQA-Jest-Enzyma/blob/master/screen/inputTest.png)
 
 ----------------------------------------------------
-# TEST PARA EL COMPONENTE <Formulario/> y <Button>  </Button>
+# TEST PARA EL COMPONENTE Formulario y Button 
 ![ScreenShot](https://github.com/Juanda962908/PruebaQA-Jest-Enzyma/blob/master/screen/inputTest.png)
 
 

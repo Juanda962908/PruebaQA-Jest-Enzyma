@@ -23,3 +23,21 @@ dependencias utilizadas en esta prueba:
 # RESULTADO DE LA APLICACIÓN DESARROLLADA
 
 ![ScreenShot](https://github.com/Juanda962908/PruebaQA-Jest-Enzyma/blob/master/screen/App-PruebaQA.png)
+
+
+----------------------------------------------------
+# TEST PARA EL COMPONENTE <Input/>
+![ScreenShot](https://github.com/Juanda962908/PruebaQA-Jest-Enzyma/blob/master/screen/inputTest.png)
+
+----------------------------------------------------
+# TEST PARA EL COMPONENTE <Checkbox/> y <label> </label>
+![ScreenShot](https://github.com/Juanda962908/PruebaQA-Jest-Enzyma/blob/master/screen/inputTest.png)
+
+----------------------------------------------------
+# TEST PARA EL COMPONENTE <Formulario/> y <Button>  </Button>
+![ScreenShot](https://github.com/Juanda962908/PruebaQA-Jest-Enzyma/blob/master/screen/inputTest.png)
+
+
+
+
+

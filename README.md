@@ -22,4 +22,4 @@ dependencias utilizadas en esta prueba:
 ----------------------------------------------------
 # RESULTADO DE LA APLICACIÓN DESARROLLADA
 
-https://github.com/Juanda962908/PruebaQA-Jest-Enzyma/blob/master/screen/App-PruebaQA.png
+screen/App-PruebaQA.png

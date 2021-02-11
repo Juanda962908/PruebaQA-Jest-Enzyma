@@ -31,11 +31,11 @@ dependencias utilizadas en esta prueba:
 
 ----------------------------------------------------
 # TEST PARA EL COMPONENTE Checkbox y label
-![ScreenShot](https://github.com/Juanda962908/PruebaQA-Jest-Enzyma/blob/master/screen/inputTest.png)
+![ScreenShot](https://github.com/Juanda962908/PruebaQA-Jest-Enzyma/blob/master/screen/checkboxtest.png)
 
 ----------------------------------------------------
 # TEST PARA EL COMPONENTE Formulario y Button 
-![ScreenShot](https://github.com/Juanda962908/PruebaQA-Jest-Enzyma/blob/master/screen/inputTest.png)
+![ScreenShot](https://github.com/Juanda962908/PruebaQA-Jest-Enzyma/blob/master/screen/FormularioTest.png)
 
 
 
